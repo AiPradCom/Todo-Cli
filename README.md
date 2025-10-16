@@ -1,5 +1,9 @@
 # Todo CLI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/downloads/)
+[![Top Language](https://img.shields.io/github/languages/top/AiPradCom/Todo-Cli?color=blue)](https://github.com/AiPradCom/Todo-Cli)
+
 A simple, efficient command-line Todo Manager written in Python.
 
 ## Features
